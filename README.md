@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @amenkes24
 - 👀 I’m interested in software engineering!
 - 🌱 I’m currently learning coding.
-- 💞️ I’m looking to collaborate on my classwork.
+- 💞️ I’m looking for a career as a web developer.
 - 📫 How to reach me: amenkes25@gmail.com
 
 <!---
